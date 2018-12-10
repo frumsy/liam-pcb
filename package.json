@@ -4,8 +4,12 @@
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-lazyload": "^2.3.0",
+    "react-scripts": "2.1.1",
+    "react-transition-group": "^2.5.0",
+    "typewriter-effect": "^2.5.2"
   },
   "scripts": {
     "start": "react-scripts start",

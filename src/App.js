@@ -1,24 +1,24 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Typewriter from 'typewriter-effect';
+import Top from './components/top/Top'
+let p = ()=>{console.log('p test')}
+let loadTop = ()=>{
+        
+}
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+        <Typewriter
+          onInit={(typewriter) => {
+            typewriter.typeString('user@liam-pcb.com$./npm start')
+              .callFunction(()=>loadTop())
+              .start();
+              }}/>
+        <Top/> 
         </header>
       </div>
     );
