@@ -1,6 +1,6 @@
 import React from 'react'; 
 import {Grid, Row, Col, Image} from 'react-bootstrap';
-import GithubImage from 'github.png'
+import GithubImage from './github.png'
 import StackOverflowImage from './stackoverflow.png';
 import UpWorkImage from './upwork.png';
 
