@@ -40,7 +40,7 @@ const Top = (props) => {
                     </a>
                     </Col>
                     <Col xsHidden md={4}>
-                    <a href="https://stackoverflow.com/users/6706654/liam?tab=profile">
+                    <a href="https://www.upwork.com/o/profiles/users/_~0193916a6f17380807/">
                         <div className="UpWork" style={boxStyle}>
                             <Image src={UpWorkImage} style={imageStyle}rounded />
                         </div>
