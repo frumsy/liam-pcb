@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/liam-pcb/precache-manifest.7572cdc6471885898b37897e78ceb8e9.js"
+  "/liam-pcb/precache-manifest.4b0454fd23e40db9f272fc5ef6a12cf0.js"
 );
 
 workbox.clientsClaim();
