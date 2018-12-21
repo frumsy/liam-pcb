@@ -2,7 +2,7 @@
   "name": "liam-pcb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frumsy.github.io/liam-pcb",
+  "homepage": "https://liam-pcb.com",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
