@@ -4,8 +4,9 @@ import Typewriter from 'typewriter-effect';
 import Top from './components/top/Top';
 
 class App extends Component {
-  state = {
-    visible: 'hidden',   
+
+    state = {
+    visible: 'hidden',
 }
 
 loadTop = (isVisible) =>{
