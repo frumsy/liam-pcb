@@ -47,7 +47,8 @@ const Top = (props) => {
                     </a>
                     </Col>
                 </Row>
-                    <a href="">
+                    <a href="https://github.com/frumsy/liam-pcb/raw/master/src/Resume.pdf">
+                        resume.pdf
                     </a>
                 <Row>
                 </Row>
