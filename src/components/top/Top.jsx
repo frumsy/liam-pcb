@@ -4,10 +4,17 @@ import GithubImage from './github.png'
 import StackOverflowImage from './stackoverflow.png';
 import UpWorkImage from './upwork.png';
 
+
+
 var boxStyle={
+    background: 'linear-gradient(to bottom right, #1b1b1b,rgba(26, 64, 97, 0.55))',
     borderRadius: '10px',
     margin: '20px',
-    background: '#1a40618c',
+    backgroundColor: '#0a0a0a',
+    border: '2px solid',
+    borderColor: '#141C2C', 
+    padding: '1%',
+    borderRadius: '12px',
     height: '100px',
     width: '300px',
 }
@@ -16,6 +23,7 @@ var imageStyle={
     maxWidth: '100%',
     maxHeight: '100%',
 }
+
 
 const Top = (props) => {
     
