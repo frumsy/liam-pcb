@@ -63,7 +63,7 @@ function getMobile(props){
                         </div>
                     </a>
                 </Row>
-                    <a href="https://github.com/frumsy/liam-pcb/raw/master/src/Resume.pdf">
+                    <a href="https://github.com/frumsy/liam-pcb/raw/master/src/Resume_liam.pdf">
                         resume.pdf
                     </a>
                 <Row>
